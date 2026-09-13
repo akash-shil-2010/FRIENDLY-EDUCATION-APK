@@ -1,0 +1,6 @@
+{
+  "name": "Friendly Education By DEV'A",
+  "description": "An advanced, full-stack Educational Examination and Result Management Web Application tailored for West Bengal Board Students (Class 6 to Class 12), featuring AI-powered exam paper parsing, answer stripping, instant self-assessments, digital signatures, and secure grade tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
